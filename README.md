@@ -17,3 +17,7 @@ git clone https://github.com/fatih/vim-go.git   .vim_runtime/source_no_forked/vi
 + :GoUpdateBinaries
 
 # go 1.15
+
+
+安装tagbar
+https://github.com/preservim/tagbar/tags   将tagbar解压到   vim_rumtime/vimrc/none_fork_plugin中
